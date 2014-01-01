@@ -1,0 +1,41 @@
+Michael "Z" Goddard
+
+Objective
+
+Experience
+Gradient Studios
+JavaScript frontend and server backend work.
+Unity, Unity mobile.
+Native iOS.
+- co.llide (2012-present)
+  co.llide.com
+  Javascript frontend, networking (websockets) and backend interaction with Riak and servers.
+- Fieldrunners HTML5 (Late 2011)
+  fieldrunnershtml5.appspot.com
+  Contracted by SubAtomic Studios and worked with Bocoup.
+  Ported a C++ and OpenGL codebase to Javascript and WebGL.
+  Before emscripten was usable.
+  Server in Go.
+- Nyx on iOS (Mid 2010 to Early 2011)
+  nyx.gradientstudios.com
+  Unity Mobile
+- Unity Mobile contract
+- iOS Contract
+  Native iOS frontend for a propritary layer on top of UDP over local Wifi to clients installed hardware.
+
+Personal Projects
+- Aquamancy
+  youtu.be/W4RsuR07c7U
+  mzgoddard.github.io/aquamancy/emscripten
+  mzgoddard.github.io/aquamancy/js
+  Series of Processing, Javascript, C, and C to Javascript with Emscripten particle demos and game prototype.
+- Maildrop
+  mzgoddard.github.io/maildrop
+- Dawn Glider
+  mzgoddard.github.io/dawn-glider
+
+Education
+CS & GSAS from RPI 2010
+
+Skills
+JavaScript, C, C++, Objective-C, Python, Go, Java, UDP, TCP/IP, OpenGL, 

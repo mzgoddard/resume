@@ -1,0 +1,145 @@
+===================
+Michael "Z" Goddard
+===================
+
+Education
+=========
+
+| Graduated with Bachelor of Science from RPI in 2010.
+| Duel Major in:
+|   Computer Science (CS)
+|   Games and Simulations Art and Sciences (GSAS).
+
+Employment
+==========
+
+Gradient Studios, 2010 to present
+---------------------------------
+
+| JavaScript frontend and server backend work.
+| Unity, Unity mobile.
+| Native iOS.
+
+Language and Tool Experience
+============================
+
+C, C++, Objective-C, Javascript, Python, C#, Go, Unity 3D, Emscripten, TCP, UDP, WebSocket, WebGL, WebAudio, Riak, CouchDB, IndexedDB, HTML, Handlebars, CSS, Stylus, Mac OS X, Google App Engine, jQuery, Backbone, Grunt, NodeJS, ffmpeg, gifsicle
+
+Python Knowledge
+================
+
+Experience with Python 2.3 to 2.7
+
+Generators (language), Metaclasses (language), subprocess (standard library), numpy (math library), Jinja2 (template library), Django (rails-like library and engine), pygame (sdl wrapper library), pyglet (multimedia application library), WAF (build tool), Restructered Text (rST, python documentation format)
+
+Project Experience
+==================
+
+co.llide, 2012 to present
+-------------------------
+
+| Employee at Gradient Studios.
+| http://co.llide.com, Chrome and Firefox
+| Javascript frontend, networking (websockets) and backend interaction with Riak and servers.
+
+Space Leap, July 2013 to present
+--------------------------------
+
+| Personal Project.
+| http://mzgoddard.github.io/spaceleap, Chrome
+| Exploration and collection game in C and Javascript. Javascript and Python build tools.
+
+Maildrop, April 2012
+--------------------
+
+| Personal Project.
+| http://mzgoddard.github.io/maildrop, Chrome and Firefox
+| Particle system game in Javascript.
+
+Dawn Glider, November 2011
+--------------------------
+
+| Personal Project.
+| http://mzgoddard.github.io/dawn-glider, Chrome
+| Particle system game in Javascript.
+
+Fieldrunners HTML5, Late 2011
+-----------------------------
+
+| Contract under SubAtomic Studios and Bocoup.
+| http://fieldrunnershtml5.appspot.com, Chrome
+| Port a C++ and OpenGL codebase to Javascript and WebGL.
+| Heavy lifting with machine porting by python script followed by tuning, replacing native APIs with web APIs and bug fixing by hand.
+| Server written in Go. Interact with Google InApp payments (Checkout).
+
+Aquamancy, Sept 2011 to present
+-------------------------------
+
+| Personal Project.
+| http://youtu.be/W4RsuR07c7U
+| http://mzgoddard.github.io/aquamancy/demo/emscripten.html, Chrome and Firefox
+| http://mzgoddard.github.io/aquamancy/demo/javascript.html, Chrome and Firefox
+| Series of Processing, Javascript, C, and C to Javascript with Emscripten particle demos and game prototype. Javascript and Python build tools.
+
+Unity Mobile, C# contract, 2011
+-------------------------------
+
+| Employee at Gradient Studios.
+| Under NDA.
+
+Nyx on iOS, Mid 2010 to Early 2011
+----------------------------------
+
+| Employee at Gradient Studios.
+| http://nyx.gradientstudios.com
+| Unity Mobile, C#
+
+iOS Contract
+------------
+
+| Employee at Gradient Studios.
+| Native iOS frontend for a propritary layer on top of UDP over local Wifi to clients installed hardware.
+
+quick-event-logs, 2009
+----------------------
+
+| Student employee at RPI Computer Helpdesk.
+| https://code.google.com/p/quick-event-logs/
+| Create a simple frontend with python backend. Displayed on a touch screen for logging types of help employees at the helpdesk provided.
+
+kiwikolab, 2009
+---------------
+
+| Student class project.
+| http://kiwikolab.appspot.com/
+| Python on Google App Engine. Student class collaboration tool.
+
+The Illusionary Persistance of Love, 2009
+-----------------------------------------
+
+| Global game jam.
+| http://youtu.be/1Fhj8wrByUs
+| Unity, UnityScript. Physics puzzle game.
+
+Core Driller, May 2008
+----------------------
+
+| RPI student game jam.
+| http://youtu.be/6E0_wkrR_fQ
+| Python and pyglet.
+
+Pong Break, Sept 2007
+---------------------
+
+| RPI student game jam.
+| http://youtu.be/tu-Cbu-DHqE
+| Pong and Breakout derivative.
+| Python, pygame, and pyode.
+
+Pyblosxom WebFront, Summer 2007
+-------------------------------
+
+| Contract under Google Summer of Code.
+| https://code.google.com/p/pyblosxom-webfront/
+| http://www.zofgames.com/webfront-example/pyblosxom.cgi?edit=entry
+| Write a frontend plugin for Pyblosxom, a python flat-file blog system.
