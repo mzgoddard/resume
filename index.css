@@ -16,17 +16,18 @@ header h1 {
 header p {
   margin: 0;
 }
-header ul {
+header ul,
+header ol {
   margin: 0;
   padding: 0 20px 20px;
 }
-header .skills li {
+header .comma-list li {
   display: inline-block;
 }
-header .skills li:after {
+header .comma-list li:after {
   content: ',';
 }
-header .skills li:last-child:after {
+header .comma-list li:last-child:after {
   content: '';
 }
 section {
